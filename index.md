@@ -1,4 +1,4 @@
-<center><span style="font-size: 40px; color: #000080;"><b>PORTAFOLIO</b></span></center>
+<center><span style="font-size: 40px; color: #000080;"><b>PORTAFOLIO_Plantilla</b></span></center>
 
 <center><span style="font-size: 20px;"><b>PROYECTOS DE INGENIERÍA ESTRUCTURAL</b></span></center>
 
@@ -30,9 +30,11 @@ Mi primer portafolio elaborado para **GESCONVIAL**
 donde presentare los gráficos o ejemplos que elaboré con las plantillas del curso
 [Drive](https://drive.google.com/drive/folders/1GV-U8piuKNDi9QQnr9g1gZlRl350uEXV)
 ## **Automatización del Análisis Sísmico - E030**
-[imagen1](D:\Programación\imagenes\aceleraciones2.png)
-## **Apuntes estructurales**
-[imagen2](D:\Programación\imagenes\ApuntesEstruc.png)
+<img src="assets\img\aceleraciones2.png" width="100%" height="100%"> 
+
+## **APUNTES ESTRUCTURALES**
+
+<img src="assets\img\Apuntes Estruc.png" width="100%" height="100%"> 
 
 <div style="text-align: center;">
   <div style="display: inline-block;">
@@ -41,10 +43,93 @@ donde presentare los gráficos o ejemplos que elaboré con las plantillas del cu
   </div>
 </div>
 
+## **TALLER DE ANASTRUCT EJEMPLOS**
+A continuación se mmostrará un pórtico que se graficó usando la librería Anastruct. 
+## **Show_Estructure**
+
+<img src="assets\img\estructure.png" width="100%" height="100%"> 
+programas utilizados:
+<img src="assets\img\python logo.png" width="6%" height="10%">
+<img src="assets\img\vs code logo.png" width="6%" height="10%">;
+
+Fuente: 
+<img src="assets\img\logo.png" width="5%" height="5%">
+<img src="assets\img\gescon.jpg" width="5%" height="5%">
+
+## **Fuerzas de Reacción**
 
 <p align="center">
-<img src="assets\img\AAS.gif" width="100%" height="100%">
+<img src="assets\img\reaction_force.png" width="100%" height="100%">
 </p>
+
+
+programas utilizados:
+<img src="assets\img\python logo.png" width="6%" height="10%">
+<img src="assets\img\vs code logo.png" width="6%" height="10%">;
+
+
+Fuente: 
+<img src="assets\img\logo.png" width="5%" height="5%">
+<img src="assets\img\gescon.jpg" width="5%" height="5%">
+
+## **Fuerzas Axiales**
+
+<p align="center">
+<img src="assets\img\axial_force.png" width="100%" height="100%">
+</p>
+
+
+programas utilizados:
+<img src="assets\img\python logo.png" width="6%" height="10%">
+<img src="assets\img\vs code logo.png" width="6%" height="10%">;
+
+Fuente: 
+<img src="assets\img\logo.png" width="5%" height="5%">
+<img src="assets\img\gescon.jpg" width="5%" height="5%">
+## **Shear Forces**
+
+<p align="center">
+<img src="assets\img\shear_force.png" width="100%" height="100%">
+</p>
+
+
+programas utilizados:
+<img src="assets\img\python logo.png" width="6%" height="10%">
+<img src="assets\img\vs code logo.png" width="6%" height="10%">;
+
+Fuente: 
+<img src="assets\img\logo.png" width="5%" height="5%">
+<img src="assets\img\gescon.jpg" width="5%" height="5%">
+
+## **bending_moment**
+
+<p align="center">
+<img src="assets\img\bending_moment.png" width="100%" height="100%">
+</p>
+
+
+programas utilizados:
+<img src="assets\img\python logo.png" width="6%" height="10%">
+<img src="assets\img\vs code logo.png" width="6%" height="10%">;
+
+Fuente: 
+<img src="assets\img\logo.png" width="5%" height="5%">
+<img src="assets\img\gescon.jpg" width="5%" height="5%">
+
+## **displacement**
+
+<p align="center">
+<img src="assets\img\displacement.png" width="100%" height="100%">
+</p>
+
+
+programas utilizados:
+<img src="assets\img\python logo.png" width="6%" height="10%">
+<img src="assets\img\vs code logo.png" width="6%" height="10%">;
+
+Fuente: 
+<img src="assets\img\logo.png" width="5%" height="5%">
+<img src="assets\img\gescon.jpg" width="5%" height="5%">
 
 
 ## Modelo Paramétrico de Edificaciones 
