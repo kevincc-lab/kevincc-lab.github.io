@@ -20,16 +20,19 @@
 <img src="assets\img\latex logo.png" width="12.5%" height="10%">
 </p>
 
-## **Automatización del Análisis Sísmico - E030**
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-api-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop)
 
 
-Extracción de datos de un modelo de ETABS para el análisis sísmico según la Normativa Peruana E.030 y generación automática de la memoria de cálculo.
-
-Generación de una plantilla de trabajo en Etabs a través de código Python. Configuración personalizada de materiales, patrones de cargas, combinaciones de cargas, unidades de trabajo, nombre de secciones, etc.
-
+Mi primer portafolio elaborado para **GESCONVIAL**
+donde presentare los gráficos o ejemplos que elaboré con las plantillas del curso
+[Drive](https://drive.google.com/drive/folders/1GV-U8piuKNDi9QQnr9g1gZlRl350uEXV)
+## **Automatización del Análisis Sísmico - E030**
+[imagen1](D:\Programación\imagenes\aceleraciones2.png)
+## **Apuntes estructurales**
+[imagen2](D:\Programación\imagenes\ApuntesEstruc.png)
 
 <div style="text-align: center;">
   <div style="display: inline-block;">
